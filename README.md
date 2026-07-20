@@ -20,6 +20,8 @@ Ratings are entirely dependent on the food. Ratings improve the amount of custom
 Upgrades are for improving efficiency, rating, speed, and more. If an upgrade can be bought above 1 time, it gets more expensive until you max it out.
 ## Customers
 Some Customers are normal. Depending on how you make the food, they will rate it. In some cases, special customers can come.
+### Fake Customers
+Some customers are not real. You must hold E to reject them. If you let a fake customer get their food and go into the Dining Room to eat, they will attack normal customers. To stop them, you have to repeatedly press P to punch the fake customer. In some scenarios, the fake customer will attack you and decrease your health. If your health hits 0, you die.
 ### Special Customers
 Special customers are ones that can:
 - Boost money by multipliers
