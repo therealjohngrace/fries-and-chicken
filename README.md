@@ -29,3 +29,16 @@ Special customers are ones that can:
 - Explain how customers would like a food
 # The Ending
 Quitting your job at the end is essentially hitting the Rebirth button in a game. Your rating, upgrades, money, multipliers, and ingredients will be reset.
+# Speedrunning Rules
+I know you or someone else is probably going to try and speedrun my game, so lets put on some rules.
+## Rule 1
+You cannot let a customer die. If 1 customer dies, you lose.
+## Rule 2
+You your self cannot die.
+## Rule 3
+If you let 3 fake customers in, you lose.
+## %s
+In speedruns, you have %s. Like any%. These are the %s of my game.
+- any%
+- glitch%
+Yeah I know its small, but this is like my first time implementing %s into my game.
